@@ -1,4 +1,4 @@
-.boton-contenedor{
+.boton-contenedor {
     height: 83px;
     display: flex;
     justify-content: center;
@@ -14,8 +14,14 @@
     flex: 1 1;
 }
 
+.boton-contenedor:hover {
+    background-color: darkorchid;
+}
+
 .operador {
-  
     background-color: #00471b;
- 
+
+}
+.operador:hover{
+    background-color: rgb(72, 138, 6);
 }
