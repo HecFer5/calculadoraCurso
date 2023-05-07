@@ -1,0 +1,18 @@
+.boton-delete{
+    height: 80px;
+    font-size: 1.6em;
+    display: flex;
+    flex: 1;
+    background-color: rgb(231, 222, 222);
+    margin-top: 8px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: black;
+    border: 2px solid white;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.boton-delete:hover{
+    background-color: darkgoldenrod;
+}
